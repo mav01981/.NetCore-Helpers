@@ -8,7 +8,7 @@ using System.Reflection;
 namespace CoreHelpers
 {
     /// <summary>
-    /// SQL Server and ADO.NET
+    /// ADO.NET helper
     /// </summary>
     public class SQLAdo
     {
